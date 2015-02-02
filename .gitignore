@@ -1,0 +1,4 @@
+*.dylib
+*.o
+main
+main.dSYM
